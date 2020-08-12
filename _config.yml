@@ -12,8 +12,8 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: verainthecity@yahoo.com
-org_street_address: Friedenstraße, 10249 Berlin #Please include suite number on the line below
+org_general_email_inbox: "verainthecity@yahoo.com"
+org_street_address: Friedenstraße 10249 Berlin #Please include suite number on the line below
 org_address_suite:  900
 org_city: Berlin
 org_state: Germany
